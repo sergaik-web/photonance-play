@@ -1,0 +1,21 @@
+{
+  "px": 256,
+  "emotions": [
+    "calm",
+    "smile",
+    "worry",
+    "sad",
+    "angry",
+    "surprise",
+    "doubt"
+  ],
+  "pages": {
+    "chorus": "faces-chorus.webp",
+    "keeper": "faces-keeper.webp",
+    "matvey": "faces-matvey.webp",
+    "mira": "faces-mira.webp",
+    "nina": "faces-nina.webp",
+    "sonya": "faces-sonya.webp",
+    "vera": "faces-vera.webp"
+  }
+}
