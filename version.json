@@ -1,0 +1,8 @@
+{
+  "version": "0.1.203-web",
+  "date": "2026-10-21",
+  "news": {
+    "ru": "Игра теперь называется Heliohold (прежнее имя занято товарным знаком). Готовность к Steam: граница демо на цели «Спектр F» с окном «Конец демо» и переносом мира файлом; управление мышью и клавиатурой — снос и марка рамкой, поиск в сумке (Ctrl+F), Alt+Enter, Esc закрывает окна, клавиши по раскладке; настройки — потолок кадров, масштаб «Авто», «Тише в фоне», формы цветов для дальтоников; текст на ПК не мельче 12 px; честный английский; 8 новых достижений; лицензии в «Об игре».",
+    "en": "The game is now called Heliohold (the old name was taken by a trademark). Steam readiness: the demo now ends at the “F spectrum” goal with an End of Demo window and world transfer by file; mouse and keyboard — box demolish and box upgrade, inventory search (Ctrl+F), Alt+Enter, Esc closes windows, layout-aware keys; settings — frame rate limit, Auto UI scale, mute in background, color shapes for color blindness; PC text at least 12 px; rewritten English; 8 new achievements; licenses in About."
+  }
+}
