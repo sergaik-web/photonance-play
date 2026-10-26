@@ -1,0 +1,8 @@
+{
+  "version": "0.1.218-web",
+  "date": "2026-10-26",
+  "news": {
+    "ru": "Готовится ПК-версия для Steam — игра теперь собирается отдельным приложением для Windows. В веб-версии видимых изменений нет: только правки под капотом (сохранение при выходе надёжнее).",
+    "en": "A PC version for Steam is on the way — the game now builds as a standalone Windows app. No visible changes on the web: only under-the-hood fixes (saving on exit is more reliable)."
+  }
+}
