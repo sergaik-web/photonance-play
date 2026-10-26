@@ -1,0 +1,8 @@
+{
+  "version": "0.1.217-web",
+  "date": "2026-10-26",
+  "news": {
+    "ru": "Плавнее: окно исследований на ПК больше не дёргается, большая фабрика с гнёздами на дальнем зуме — меньше рывков, мир расходует меньше памяти видеокарты. В настройках «Графика» видно, на какой видеокарте идёт игра; если на встроенной, а в компьютере есть мощная — подскажем, как её включить для браузера.",
+    "en": "Smoother: the research window on PC no longer stutters, a large factory near nests at far zoom hitches less, and the world uses less video memory. Settings → Graphics now shows which graphics card the game runs on; if it's integrated and your computer has a dedicated GPU, we'll show how to enable it for your browser."
+  }
+}
