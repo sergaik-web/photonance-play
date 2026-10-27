@@ -1,0 +1,8 @@
+{
+  "version": "0.1.220-web",
+  "date": "2026-10-27",
+  "news": {
+    "ru": "Удобнее на ПК: постройка остаётся в руке (снять — ПКМ или Esc), подсказка над постройкой показывает рецепт, скорость и свет (Shift — подробнее), «/» ищет постройку в ленте, Ctrl+F — рецепт в окне сборщика, на широком экране сумка открывается рядом со вторым окном, F5/F9 — быстрый сейв и загрузка, автосейв настраивается.",
+    "en": "Better on PC: the building stays in your hand (RMB or Esc drops it), hovering a building shows its recipe, speed and light (Shift for more), “/” finds a building on the bar, Ctrl+F finds a recipe in an assembler, on wide screens the bag opens next to another window, F5/F9 quick save and load, autosave interval is adjustable."
+  }
+}
