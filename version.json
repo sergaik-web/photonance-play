@@ -1,0 +1,8 @@
+{
+  "version": "0.1.222-web",
+  "date": "2026-10-28",
+  "news": {
+    "ru": "Английская версия переписана целиком: подсказки, цели, окна и все реплики героев теперь звучат по-английски, а не как перевод с русского — у каждого героя свой голос. Остальные языки не менялись.",
+    "en": "The English text has been rewritten from top to bottom: hints, goals, windows and every line of dialogue now read like they were written in English, and each character has a voice of their own. Other languages are unchanged."
+  }
+}
