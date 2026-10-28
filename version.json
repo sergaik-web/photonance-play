@@ -1,0 +1,8 @@
+{
+  "version": "0.1.221-web",
+  "date": "2026-10-28",
+  "news": {
+    "ru": "Геймпад: в игру можно играть целиком с контроллера — левый стик ведёт катер, правый — прицел, курки ставят и снимают, бамперы листают вкладки, окна и меню — крестовиной и A/B. Значки кнопок Xbox, PlayStation и Steam Deck появляются сами по последнему вводу; кнопки переназначаются в «Настройки» → «Управление».",
+    "en": "Gamepad: the whole game now plays on a controller — left stick flies the cutter, right stick aims, triggers place and put away, bumpers switch tabs, windows and menus use the D-pad and A/B. Xbox, PlayStation and Steam Deck button icons follow your last input; remap buttons in Settings → Controls."
+  }
+}
