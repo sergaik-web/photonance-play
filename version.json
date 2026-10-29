@@ -1,0 +1,8 @@
+{
+  "version": "0.1.224-web",
+  "date": "2026-10-29",
+  "news": {
+    "ru": "Геймпад: зажмите View — круг быстрых окон (сумка, древо, карта, статистика и другие), отпустите на нужном. LB + ←/→ меняет марку постройки в руке, LB + X и LB + Y копируют и вставляют рецепт; подсказки больше не просят «щёлкнуть», окно сразу получает фокус. Музыка: такт Пульсара идёт ровно со вспышкой звезды, после «Счёта пропусков» звучит свой ритм, у Вуали — голос мёртвой звезды, перелёт ведёт тему от старой звезды к новой.",
+    "en": "Gamepad: hold View for a ring of quick windows (bag, tree, map, stats and more) and release on the one you want. LB + ←/→ switches the mark of the building in hand, LB + X and LB + Y copy and paste a recipe; hints no longer ask you to click, and a window takes focus right away. Music: the Pulsar beat now lands exactly on the star’s flash, your own rhythm joins after “Gap Count”, the Veil has the voice of a dead star, and the journey carries the theme from the old star to the new one."
+  }
+}
