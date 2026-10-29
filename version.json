@@ -1,0 +1,8 @@
+{
+  "version": "0.1.227-web",
+  "date": "2026-10-29",
+  "news": {
+    "ru": "Звёзды модами (полная версия, ПК и веб): мод может добавить свою звёздную систему — одну или пару звёзд и пояса данными. Она появляется в окнах «Нового мира» и творческого режима рядом со звёздами игры (иконка и метка «Мод») и точкой на спирали меню. Внутри — древо Колыбели и свободная игра без кампании и целей. Мир помнит свою звезду: без мода он открывается призраком, а новая версия мода не сдвигает пояса начатого мира. Пример «Гранильня» 1.2.0 — звезда «Призменная пара» с осколками призмы в поясах. Сейвы с такой звездой прошлая версия игры не откроет.",
+    "en": "Stars from mods (full version, PC and web): a mod can add its own star system — a single star or a pair, with belts, all as data. It shows up in the New World and Creative Mode screens next to the game's stars (with an icon and a “Mod” tag) and as a point on the menu spiral. Inside: the Cradle tree and free play, no campaign or goals. A world remembers its star: without the mod it opens as a ghost, and a new mod version won't move the belts of a world already in progress. The “Facet Mill” example 1.2.0 adds the “Prism Pair” star with prism shards in its belts. Saves with such a star won't open in the previous game version."
+  }
+}
