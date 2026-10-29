@@ -1,0 +1,8 @@
+{
+  "version": "0.1.226-web",
+  "date": "2026-10-29",
+  "news": {
+    "ru": "Моды стали богаче (полная версия, ПК и веб): жидкости и руды поясов — руда мода ложится сгустками в пояс Колыбели; машина мода может выглядеть по-своему — спрайт PNG со свечением и кадрами работы. Игра бережёт цели: мод, после которого нельзя пройти кампанию, не грузится и говорит почему. Пример «Гранильня» 1.1.0 — с рудой «Осколок призмы» и своей гранильней; руководство моддера — docs/modding.md.",
+    "en": "Richer mods (full version, PC and web): fluids and belt ores — a mod's ore lies in clusters in a Cradle belt; a mod machine can have its own look — a PNG sprite with glow and work frames. The game guards its goals: a mod that would make the campaign impossible won't load and says why. The “Facet Mill” example 1.1.0 adds a “Prism Shard” ore and its own mill sprite; modder's guide: docs/modding.md."
+  }
+}
