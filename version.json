@@ -1,0 +1,8 @@
+{
+  "version": "0.1.225-web",
+  "date": "2026-10-29",
+  "news": {
+    "ru": "Моды, как в Factorio (полная версия, ПК и веб): окно «Моды» в главном меню — загрузите zip или положите мод в папку модов, включите и перезапустите. Моды добавляют предметы, рецепты, машины и технологии, правят числа игры, переводят и рисуют иконки. Мир помнит свои моды: пропавший мод не ломает сохранение — его постройки остаются призраками. Пример — мод «Гранильня», руководство моддера — docs/modding.md.",
+    "en": "Mods, Factorio-style (full version, PC and web): the Mods window in the main menu — upload a zip or drop a mod into the mods folder, turn it on and restart. Mods add items, recipes, machines and techs, tweak the game's numbers, translate and draw icons. A world remembers its mods: a missing mod won't break the save — its buildings stay as ghosts. Example: the “Facet Mill” mod; modder's guide: docs/modding.md."
+  }
+}
