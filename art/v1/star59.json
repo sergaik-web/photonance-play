@@ -1,0 +1,33 @@
+{
+ "version": 1,
+ "maps": {
+  "gran": "star59-gran.webp",
+  "act": "star59-act.webp",
+  "corona": "star59-corona.webp"
+ },
+ "prom": {
+  "cw": 384,
+  "ch": 192,
+  "gap": 6,
+  "cols": 5,
+  "per": 8,
+  "frames": 24,
+  "types": [
+   "arch",
+   "hedge",
+   "erupt",
+   "loops"
+  ],
+  "w": 1950,
+  "h": 1386,
+  "file": "star59-prom.webp"
+ },
+ "full": {
+  "pages": [
+   "star59-full-0.webp",
+   "star59-full-1.webp"
+  ],
+  "frames": 24,
+  "size": 512
+ }
+}

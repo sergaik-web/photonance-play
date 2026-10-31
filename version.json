@@ -1,0 +1,8 @@
+{
+  "version": "0.1.231-web",
+  "date": "2026-10-31",
+  "news": {
+    "ru": "Совместная игра через интернет (ПК): «Пригласить по коду» — друг вставляет код, присылает ответ, и вы в одном мире без открытия портов. Пароль больше не идёт по сети открытым текстом, соединение по адресу шифруется. Хост решает, кого впустить; мир ждёт отставшего («Ждём: <имя>») и отключает зависшего. Своя постройка видна сразу, катера друзей — на карте и у края экрана. Корабли гостей летят с ковчегом; финальные сцены — у всех на паузе. Рядом с гнездом в группе стражей больше.",
+    "en": "Online co-op (PC): “Invite by code” — your friend pastes the code, sends back a reply, and you share a world without opening ports. The password is no longer sent in the clear, and joining by address is encrypted. The host decides who gets in; the world waits for a lagging player (“Waiting for: <name>”) and drops one that froze. Your own buildings appear instantly, friends’ ships show on the map and at the screen edge. Guests’ ships travel with the ark; the final scenes pause for everyone. Groups near a nest face more guards."
+  }
+}
